@@ -1,0 +1,14 @@
+FFFE AC
+FFFF X
+0006 SP
+0000 PC
+0100 CVZN
+0200 inc (sp)
+0091 or (x) ac
+0001 exg ac sp
+1001 HALT
+0200 4:
+009A 5:
+FFFD 6:
+0201 7:
+0000 8:
